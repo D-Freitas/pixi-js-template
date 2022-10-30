@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+button, img, input {
+	vertical-align: middle;
+	outline: none;
+}

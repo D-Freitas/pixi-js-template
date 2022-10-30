@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "baseUrl": "src",
+    "target": "es2021",
+    "esModuleInterop": true,
+    "lib": ["esnext", "dom"],
+    "allowJs": true,
+    "strict": true
+  }
+}
